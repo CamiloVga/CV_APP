@@ -1,0 +1,15 @@
+torch
+transformers
+accelerate
+safetensors
+sentencepiece
+protobuf
+gradio
+faiss-cpu
+langchain
+langchain-community
+sentence-transformers
+pypdf
+python-docx
+docx2txt
+unstructured
